@@ -1,4 +1,4 @@
-cask 'dash' do
+cask 'dash3' do
   version '3.4.3'
   sha256 '752c7b966709afa35759396b0b79172e8d2c54aff4c00ba9c01b3dd294df786b'
 
