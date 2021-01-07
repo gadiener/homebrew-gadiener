@@ -1,5 +1,5 @@
 cask 'alfred3' do
-  version '3.8.1_961'
+  version '3.8.6_972'
   sha256 '9eb1c72910357775b6684f27b189533645f9d65fce57c7e4dad247042afb6621'
 
   url "https://cachefly.alfredapp.com/Alfred_#{version}.dmg"
