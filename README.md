@@ -1,9 +1,9 @@
-# Gadiener Gadiener
+# Gadiener Tap
 
 ## How do I install these formulae?
-`brew install gadiener/gadiener/<formula>`
+`brew install gadiener/tap/<formula>`
 
-Or `brew tap gadiener/gadiener` and then `brew install <formula>`.
+Or `brew tap gadiener/tap` and then `brew install <formula>`.
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
